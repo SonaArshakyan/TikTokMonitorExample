@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\TikTokMonitor\bin\Debug\TikTokMonitor.exe.config
+C:\Users\Administrator\source\repos\TikTokMonitor\bin\Debug\TikTokMonitor.exe
+C:\Users\Administrator\source\repos\TikTokMonitor\bin\Debug\TikTokMonitor.pdb
+C:\Users\Administrator\source\repos\TikTokMonitor\obj\Debug\TikTokMonitor.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\TikTokMonitor\obj\Debug\TikTokMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\TikTokMonitor\obj\Debug\TikTokMonitor.exe
+C:\Users\Administrator\source\repos\TikTokMonitor\obj\Debug\TikTokMonitor.pdb
